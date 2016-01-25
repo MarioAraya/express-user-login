@@ -1,0 +1,617 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fa",
+				"flash"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"succ",
+				"successRedirect"
+			],
+			[
+				"bcr",
+				"bcrypt"
+			],
+			[
+				"find",
+				"findOrCreateUser"
+			],
+			[
+				"new",
+				"newUser"
+			],
+			[
+				"ne",
+				"newUser"
+			],
+			[
+				"ac",
+				"action	Attr"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"h",
+				"href"
+			],
+			[
+				"conf",
+				"configDB"
+			],
+			[
+				"exress",
+				"express"
+			],
+			[
+				"ex",
+				"express"
+			],
+			[
+				"pas",
+				"pass"
+			],
+			[
+				"bod",
+				"bodyParser"
+			],
+			[
+				"req",
+				"require"
+			],
+			[
+				"mimet",
+				"mimeType"
+			],
+			[
+				"wri",
+				"writeHead"
+			],
+			[
+				"mimee",
+				"mimeTypes"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "routes/index.js",
+			"settings":
+			{
+				"buffer_size": 1985,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app.js",
+			"settings":
+			{
+				"buffer_size": 2887,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "views/login.handlebars",
+			"settings":
+			{
+				"buffer_size": 686,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 104.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 512.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/dev/express/2loginpassport",
+		"/D/dev/express/2loginpassport/config",
+		"/D/dev/express/2loginpassport/models",
+		"/D/dev/express/2loginpassport/routes",
+		"/D/dev/express/2loginpassport/views",
+		"/D/dev/express/2loginpassport/views/layouts"
+	],
+	"file_history":
+	[
+		"/C/Users/araya/AppData/Local/Temp/7zE0B5B6074/index.js",
+		"/C/Users/araya/AppData/Local/Temp/7zE0B519864/package.json",
+		"/D/dev/express/2loginpassport/models/user.js",
+		"/D/dev/express/2loginpassport/config/passport.js",
+		"/D/dev/express/2loginpassport/views/dashboard.handlebars",
+		"/D/dev/express/2loginpassport/views/registrar.handlebars",
+		"/D/dev/express/2loginpassport/app.js",
+		"/D/dev/express/2loginpassport/routes/index.js",
+		"/D/dev/express/2loginpassport/views/layouts/layout.handlebars",
+		"/D/dev/express/2loginpassport/views/layouts/dashboard_layout.handlebars",
+		"/D/dev/express/2loginpassport/package.json",
+		"/D/dev/express/2loginpassport/node_modules/cookie-parser/node_modules/cookie-signature/index.js",
+		"/D/dev/express/2loginpassport/views/login.handlebars",
+		"/D/dev/express/2loginpassport/public/stylesheets/style.css",
+		"/N/DOWNLOADS/Borderlands.GOTY.Edition-KaOs/KaOs.nfo",
+		"/D/dev/express/2loginpassport/public/stylesheets/dashboard.css",
+		"/D/dev/express/2loginpassport/public/stylesheets/style - copia.css",
+		"/D/dev/express/2loginpassport/views/error.handlebars",
+		"/C/Users/araya/AppData/Local/Temp/7zE8CD8BD2E/app.js",
+		"/D/dev/express/2loginpassport/config/db.js",
+		"/D/dev/express/2loginpassport/views/index.handlebars",
+		"/D/dev/express/2loginpassport/views/layout.handlebars",
+		"/D/dev/express/2loginpassport/views/layouts/layout.html",
+		"/D/dev/express/2loginpassport/views/error.jade",
+		"/D/dev/express/1simpleserver/index.html",
+		"/D/dev/express/1simpleserver/about.html",
+		"/C/Users/araya/AppData/Local/Temp/7zEC2124933/bootstrap.min.css.map",
+		"/D/dev/express/1simpleserver/servicios.html",
+		"/D/dev/nodeJS/projects/passport-local-express4-master/node_modules/passport-local/lib/strategy.js",
+		"/D/dev/nodeJS/projects/express-4.x-local-example-master/db/users.js",
+		"/D/dev/nodeJS/projects/nodeauth_2/routes/users.js",
+		"/D/dev/nodeauth_ex/package.json",
+		"/D/dev/nodeJS/projects/nodeauth/nodeauth.sln",
+		"/D/dev/nodeJS/projects/nodeauth/package.json",
+		"/D/dev/nodeJS/projects/nodeauth/models/user.js",
+		"/D/dev/nodeJS/projects/nodeauth/routes/users.js",
+		"/D/dev/nodeJS/projects/nodeauth/views/layout.jade",
+		"/D/dev/nodeJS/projects/nodeauth/app.js",
+		"/D/dev/nodeJS/projects/nodeauth/bin/www",
+		"/D/dev/nodeJS/projects/nodeauth/routes/index.js",
+		"/D/dev/nodeJS/projects/nodeauth/views/registrar.jade",
+		"/D/dev/nodeJS/projects/nodeauth/models/users.js",
+		"/D/dev/nodeJS/projects/nodeauth/views/login.jade",
+		"/D/dev/nodeJS/projects/nodeauth/views/registrar.js",
+		"/D/dev/nodeJS/projects/nodeauth/views/index.jade",
+		"/D/dev/nodeJS/projects/nodeauth/views/error.jade",
+		"/D/dev/nodeJS/projects/nodeauth/npm-debug.log",
+		"/D/dev/nodeJS/projects/simpleserver/package.json",
+		"/D/dev/nodeJS/projects/simpleserver/page3.html",
+		"/D/dev/nodeJS/projects/simpleserver/page1.html",
+		"/D/dev/nodeJS/projects/simpleserver/page2.html",
+		"/D/dev/nodeJS/projects/simpleserver/index.html",
+		"/D/dev/nodeJS/projects/simpleserver/server.js",
+		"/D/dev/mongodb/README",
+		"/D/dev/nodeJS/projects/server.js",
+		"/N/dev/Python/mysite/mysite/settings.py",
+		"/N/dev/Python/mysite/polls/admin.py",
+		"/N/dev/Python/mysite/polls/models.py"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"*.js",
+			"*.*",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"getUserByUsername",
+			"createHash",
+			"bcrypt",
+			"username",
+			"profileImage",
+			"index",
+			"300",
+			"app.use"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"profileimage"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "routes/index.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1985,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								532,
+								532
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2887,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2376,
+								2376
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1207.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "views/login.handlebars",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 686,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								459,
+								459
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"syntax": "Packages/Handlebars/grammars/Handlebars.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "_proyecto.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 177.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
